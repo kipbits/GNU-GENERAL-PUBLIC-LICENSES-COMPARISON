@@ -5,6 +5,7 @@ This repository is meant to aid study / version comparison for all GNU GPL licen
 
 instructions::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 all license versions are organized by version number under commits. GNU licenses under the same version number are contained within the same commit. click on commit for corresponding version and then do a page search ".txt" to jump through to the license of interest.
 
 
