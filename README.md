@@ -10,6 +10,20 @@ all license versions are organized by version number under commits. GNU licenses
 
 here are links for all relevant documents:::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+GPL1.0
+https://www.gnu.org/licenses/gpl-1.0.txt
+
+GPL2.0
+https://www.gnu.org/licenses/gpl-2.0.txt
+		
+GPL3.0
+https://www.gnu.org/licenses/gpl-3.0.txt			
+
+
+LGPL2.0
+https://www.gnu.org/licenses/lgpl-2.0.txt
+
 LGPL2.1
 https://www.gnu.org/licenses/lgpl-2.1.txt
 
@@ -40,6 +54,3 @@ https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt
 
 FDL1.3
 https://www.gnu.org/licenses/fdl-1.3.txt
-
-
-
